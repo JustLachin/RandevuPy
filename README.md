@@ -7,7 +7,7 @@
 
 - **RANDEVU MİSAFİR RANDEVU ALAN** https://github.com/JustLachin/RandevuPy/releases/download/v1.0.0/RandevuGuest_v1.0.0.zip
 
-## 🚀 Hızlı Başlangıç
+## 🚀 Hızlı Başlangıç (ÖNEMLİ DEĞİL, YUKARIDAKİ LİNKLER HAZIR OLARAK İNDİREBİLİRSİNİZ!)
 
 ### Kurulum
 ```bash
