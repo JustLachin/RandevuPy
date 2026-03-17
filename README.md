@@ -7,6 +7,11 @@
 python install.py
 ```
 
+## .EXE ÇIKTISI BUILD ALMAK
+```bash
+python win_build.py
+```
+
 ### Çalıştırma Seçenekleri
 
 **Windows Batch:**
