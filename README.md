@@ -46,5 +46,3 @@ python win_build.py
 ### İlk Yapılandırma
 - **Admin**: Ayarlar > Supabase Yapılandırması
 - **Guest**: Footer sağ tık > Gelişmiş Ayarlar
-
-© 2024 RandevuPy
