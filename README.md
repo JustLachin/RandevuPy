@@ -1,4 +1,8 @@
 # Randevu Sistemi Pro - Kurulum Bilgileri
+## HIZLICA İNDİR .EXE
+
+- **RANDEVU YETKİLİ KONTROL UYGULAMASI** https://github.com/JustLachin/RandevuPy/releases/download/v1.0.0/RandevuAdmin_v1.0.0.zip
+- **RANDEVU MİSAFİR RANDEVU ALAN** https://github.com/JustLachin/RandevuPy/releases/download/v1.0.0/RandevuGuest_v1.0.0.zip
 
 ## 🚀 Hızlı Başlangıç
 
