@@ -1,0 +1,11 @@
+# Randevu Sistemi Pro - Dependencies
+# Appointment Management System with Supabase
+
+PyQt6>=6.4.0
+PyQt6-Qt6>=6.4.0
+PyQt6-sip>=13.4.0
+supabase>=2.3.0
+websockets>=12.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+python-dateutil>=2.8.0
